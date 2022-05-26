@@ -1,2 +1,6 @@
-# cumpilador-de-pytrhon
-Transforme seu arquivo python em um executavel, sem ter que escrever mais códigos
+# Cumpilador de arquivos python
+
+Transforme seu arquivo python em um executavel, sem dificuldades! Apenas execute o arquivo 'cumpilador.exe'
+
+
+![Imagem](imagem.png)
